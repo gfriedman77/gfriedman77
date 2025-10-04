@@ -29,7 +29,7 @@
   *Python · Deep Learning · Transfer Learning*  
 
 - [**Canada’s Labor Market**](https://gfriedman77.github.io/project/time-series/)  
-  Conducted time-series analysis of employment rate (1976–2019) by sex, province, and employment type.    
+  Conducted time-series analysis (1976–2019) of rates of employment type by sex and province.    
   Explored long-term trends and seasonal patterns to identify changes in economy and culture over time.   
   *R · Time Series Analysis · Forecasting*  
 
