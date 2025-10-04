@@ -1,6 +1,6 @@
 ## Hi, I’m Gabrielle (Gabi) Friedman 👋
 
-📍 Boston, MA  
+📍 Greater Boston Area  
 📊 Data Science · Machine Learning · Business Intelligence   
 🎓 MS in Business Analytics (Data Science Concentration), Bentley University — May 2025   
 🏆 Beta Gamma Sigma inductee | Poster Awards at NESS 2025 & Analytics Without Borders 2025    
@@ -14,7 +14,8 @@
 
 ---
 
-### 🔬 Projects: [→ All Github Projects](https://gfriedman77.github.io/projects/) 🐙  
+### 🔬 Projects:   
+🐙 [All GitHub Projects](https://gfriedman77.github.io/projects/)    
 
 #### Featured:  
 - [**AI Proof Grading**](https://gfriedman77.github.io/project/research/)  
@@ -25,7 +26,7 @@
 - [**AI Nutrition Grader**](https://gfriedman77.github.io/project/cnn/)  
   Built a convolutional neural network with transfer learning to classify nutrition data.  
   Applied image recognition to health analytics and pitched an app concept with a business plan.  
-  *Python · Transfer Learning · Deep Learning*  
+  *Python · Deep Learning · Transfer Learning*  
 
 - [**Canada’s Labor Market**](https://gfriedman77.github.io/project/time-series/)  
   Conducted time-series analysis of provincial employment rates (1976–2019) by sex and employment type.    
@@ -35,7 +36,8 @@
 
 ---
 
-### 🛠️ Skills: [→ All Tech Skills](https://gfriedman77.github.io/skills/) ⚡   
+### 🛠️ Skills:  
+⚡ [Full Tech Skills](https://gfriedman77.github.io/skills/)    
 
 #### Highlights:
 - **Programming & Data**: Python, R, SQL (Azure Synapse, MS SQL, Oracle), DAX  
