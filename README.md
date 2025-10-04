@@ -19,7 +19,7 @@
 
 #### Featured:  
 - [**AI Proof Grading**](https://gfriedman77.github.io/project/research/)  
-  Analyzed 780+ student mathematical proofs to compare AI vs. human grading for consistency and accuracy.  
+  Analyzed 780+ graded mathematical proofs to compare AI vs. human graders' consistency and accuracy.  
   Identified feedback errors and applied statistical testing to evaluate grading reliability.  
   *Python · Statistical Modeling · LLMs*  
   
