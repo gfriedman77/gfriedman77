@@ -7,11 +7,11 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/gabriellefriedman)  🌐 [Portfolio](https://gfriedman77.github.io)  📰 [Business Because feature](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university)
 
-✨ I’m actively seeking full-time roles in **Data Science & Analytics** (Greater Boston Area or remote).  
-📧 Contact: gabrielle.e.friedman[at]gmail[dot]com
-
 💬 Explore my [Recommendations](https://gfriedman77.github.io/recommendations/):   
 Reflections from mentors and colleagues on my work across teaching and analytics.
+
+✨ I’m actively seeking full-time roles in **Data Science & Analytics** (Greater Boston Area or remote).  
+📧 Contact: gabrielle.e.friedman[at]gmail[dot]com
 
 ---
 
