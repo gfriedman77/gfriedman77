@@ -10,7 +10,8 @@
 ✨ I’m actively seeking full-time roles in **Data Science & Analytics** (Greater Boston Area or remote).  
 📧 Contact: gabrielle.e.friedman[at]gmail[dot]com
 
-💬 Explore my [Recommendations](https://gfriedman77.github.io/recommendations/) page: Reflections from mentors and colleagues on my work across teaching and analytics.
+💬 Explore my [Recommendations](https://gfriedman77.github.io/recommendations/) page: 
+Reflections from mentors and colleagues on my work across teaching and analytics.
 
 ---
 
