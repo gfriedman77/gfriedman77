@@ -5,9 +5,8 @@
 🎓 MS in Business Analytics (Data Science Concentration), Bentley University — May 2025   
 🏆 Beta Gamma Sigma inductee | Poster Awards at NESS 2025 & Analytics Without Borders 2025    
 
-💼 [LinkedIn](https://www.linkedin.com/in/gabriellefriedman)    
-🌐 [Portfolio Website](https://gfriedman77.github.io)   
-📰 [Feature in Business Because](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university)
+💼 [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) | 🌐 [Portfolio](https://gfriedman77.github.io) |  
+📰 [Business Because feature](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university)
 
 ✨ I’m actively seeking full-time roles in **Data Science & Analytics** (Greater Boston Area or remote).  
 📧 Contact: gabrielle.e.friedman[at]gmail[dot]com
