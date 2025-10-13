@@ -44,4 +44,4 @@
 - **Programming & Data**: Python, R, SQL (Azure Synapse, MS SQL, Oracle), DAX  
 - **Visualization & BI**: Power BI, Tableau  
 - **Machine Learning**: Classification, Regression, Clustering, Deep Learning, LLMs  
-- **Statistics**: Time Series, Forecasting, Experimental Design, Hypothesis Testing, Optimization, Graph Analytics  
+- **Statistics**: Time Series, Forecasting, Experimental Design, Optimization, Graph Analytics  
