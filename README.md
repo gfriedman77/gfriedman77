@@ -51,13 +51,15 @@ Prior to two-years of full-time study at Bentley (including data science researc
 ## Interests 
 ### Functions
   - data science and statistics
-  - machine learning and data analytics
+  - machine learning
+  - data analytics
   - business intelligence and data visualization
     
 ### Industries
   - healthcare / pharmaceuticals
-  - tech / marketing
   - insurance / finance
+  - tech
+  - marketing
  
 #### **Clinical trial design** is of high interest.  
 
