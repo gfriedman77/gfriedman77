@@ -63,5 +63,5 @@ Prior to two-years of full-time study at Bentley (including data science researc
  
 #### **Clinical trial design** is of high interest.  
 
-I've attended **conferences** in the New England area for data science, statistics, and rare diseases.
+I've attended **conferences** in the New England area for data science, statistics, and rare diseases.  
 I really enjoy getting to know new people working in the data and analytics space. 
