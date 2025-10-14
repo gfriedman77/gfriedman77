@@ -51,8 +51,8 @@ Prior to two-years of full-time study at Bentley (including data science researc
 ## Interests 
 ### Functions
   - data science and statistics
-  - machine learning
   - data analytics
+  - machine learning
   - business intelligence and data visualization
     
 ### Industries
