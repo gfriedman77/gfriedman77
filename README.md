@@ -10,7 +10,7 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman
 
 ### Research
 <ul>
-<li> collaborated with <a href="https://github.com/nathancarter">Nathan</a> (<a href="https://github.com/gfriedman77/ai-proof-grading">repo</a>)</li>
+<li> collaborated with <a href="https://github.com/nathancarter">Professor Nathan Carter</a> (<a href="https://github.com/gfriedman77/ai-proof-grading">repo</a>)</li>
 <li>paper: "Can AI Grade Mathematical Proofs?" (<a href="https://gfriedman77.github.io/project/research/">site</a>)</li>
 <li> poster awards at NESS and AWB 2025 (<a href="https://gfriedman77.github.io/project/research/proofs_poster.pdf">poster</a>)</li>
 </ul>
