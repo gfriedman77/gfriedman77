@@ -43,10 +43,10 @@ For greater detail about technical skillset, see: [full skills](https://gfriedma
 
 ### Education 
 I graduated with my master's in Business Analytics (and a concentration in data science) in May 2025 from Bentley University McCallum Graduate School of Business. Honors included High Distinction and induction into Beta Gamma Sigma. 
-To learn more about my experience in the MBSA program, see: [Business Because feature](https://gfriedman77.github.io/recommendations/). 
+To learn more about my experience in the MSBA program, see: [Business Because feature](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university/). 
 
 ### Career
-Prior to two-years of full-time study at Bentley (including data science research and an analytics internship), I taught middle school math for a decade. For reflections from mentors and colleagues on my work across analytics, research, and teaching, see: [recommendations](https://gfriedman77.github.io/recommendations/](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university/)). 
+Prior to two-years of full-time study at Bentley (including data science research and an analytics internship), I taught middle school math for a decade. For reflections from mentors and colleagues on my work across analytics, research, and teaching, see: [recommendations](https://gfriedman77.github.io/recommendations/]). 
 
 ## Interests 
 ### Functions
