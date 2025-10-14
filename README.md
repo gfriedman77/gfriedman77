@@ -33,7 +33,7 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman
 ## Tech Skills:  
 For greater detail about technical skillset, see portfolio site: [full skills](https://gfriedman77.github.io/skills/).  
 
-Overview
+### Overview
   - **Programming & Data**: Python, R, SQL (Azure Synapse, MS SQL, Oracle), DAX  
   - **Visualization & BI**: Power BI, Tableau  
   - **Machine Learning**: Classification, Regression, Clustering, Deep Learning, LLMs  
@@ -49,12 +49,12 @@ To learn more about my experience in the MBSA program, see: [Business Because fe
 Prior to two-years of full-time study at Bentley (including data science research and an analytics internship), I taught middle school math for a decade. For reflections from mentors and colleagues on my work across analytics, research, and teaching, see portfolio site: [recommendations](https://gfriedman77.github.io/recommendations/](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university/)). 
 
 ## Interests 
-#### Functions
+### Functions
   - data science and statistics
   - machine learning and data analytics
   - business intelligence and data visualization
     
-#### Industries
+### Industries
   - healthcare / pharmaceuticals
   - tech / marketing
   - insurance / finance
