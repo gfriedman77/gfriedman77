@@ -1,9 +1,10 @@
 # **Gabrielle (Gabi) Friedman**
 
 **See also:** [My Portfolio](https://gfriedman77.github.io).  
+
 **Actively seeking** full-time opportunities in the Greater Boston Area (or remote).
 
-## Contact
+**Contact**
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) or reach out by [email](mailto:gabrielle.e.friedman@gmail.com)
 
 ## My Github Repositories
@@ -33,7 +34,8 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman
 ## Tech Skills:  
 For greater detail about technical skillset, see: [full skills](https://gfriedman77.github.io/skills/).  
 
-### Overview
+**Overview:**
+
   - **Programming & Data**: Python, R, SQL (Azure Synapse, MS SQL, Oracle), DAX  
   - **Visualization & BI**: Power BI, Tableau  
   - **Machine Learning**: Classification, Regression, Clustering, Deep Learning, LLMs  
@@ -41,27 +43,25 @@ For greater detail about technical skillset, see: [full skills](https://gfriedma
 
 ## Background
 
-### Education 
+**Education**
 I graduated with my master's in Business Analytics (and a concentration in data science) in May 2025 from Bentley University McCallum Graduate School of Business. Honors included High Distinction and induction into Beta Gamma Sigma. 
 To learn more about my experience in the MSBA program, see: [Business Because feature](https://www.businessbecause.com/news/masters-in-business-analytics/9774/how-a-master-in-business-analytics-can-unlock-your-career-potential?sponsored=bentley-university/). 
 
-### Career
+**Career**
 Prior to two-years of full-time study at Bentley (including data science research and an analytics internship), I taught middle school math for a decade. For reflections from mentors and colleagues on my work across analytics, research, and teaching, see: [recommendations](https://gfriedman77.github.io/recommendations/). 
 
 ## Interests 
-### Functions
+**Functions**
   - data science and statistics
   - data analytics
   - machine learning
   - business intelligence and data visualization
     
-### Industries
+**Industries**
   - healthcare / pharmaceuticals
   - insurance / finance
   - tech
-  - marketing
- 
-#### **Clinical trial design** is of high interest.  
+  - marketing 
 
 I've attended **conferences** in the New England area for data science, statistics, and rare diseases.  
 I really enjoy getting to know new people working in the data and analytics space. 
