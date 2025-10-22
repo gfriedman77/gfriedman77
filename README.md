@@ -1,7 +1,7 @@
 # **Gabrielle (Gabi) Friedman**
 
-### **See also:** [My Portfolio](https://gfriedman77.github.io).  
-#### **Actively seeking** full-time opportunities in the Greater Boston Area (or remote).
+**See also:** [My Portfolio](https://gfriedman77.github.io).  
+**Actively seeking** full-time opportunities in the Greater Boston Area (or remote).
 
 ## Contact
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) or reach out by [email](mailto:gabrielle.e.friedman@gmail.com)
