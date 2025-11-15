@@ -4,8 +4,7 @@
 
 **Actively seeking** full-time opportunities in the Greater Boston Area (or remote).
 
-**Contact**  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) or reach out by [email](mailto:gabrielle.e.friedman@gmail.com)
+**Contact:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) or reach out by [email](mailto:gabrielle.e.friedman@gmail.com)
 
 ## My Github Repositories
 
