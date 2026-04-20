@@ -2,9 +2,7 @@
 
 **See also:** [My Portfolio](https://gfriedman77.github.io).  
 
-**Actively seeking** full-time opportunities in the Greater Boston Area (or remote).
-
-**Contact:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman) or reach out by [email](mailto:gabrielle.e.friedman@gmail.com)
+**Contact:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman).
 
 ## My Github Repositories
 
@@ -51,15 +49,16 @@ Prior to two years of full-time study at Bentley (including data science researc
 
 ## Interests   
 **Functions**  
+  - business intelligence and data visualization
+  - data analytics
   - data science
   - statistics
-  - data analytics
   - machine learning
-  - business intelligence and data visualization
+
     
 **Industries**  
-  - healthcare / pharmaceuticals
   - higher education
+  - healthcare / pharmaceuticals
   - insurance / finance
   - tech
   - marketing 
