@@ -1,7 +1,5 @@
 # **Gabrielle (Gabi) Friedman**
 
-**See also:** [My Portfolio](https://gfriedman77.github.io).  
-
 **Contact:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabriellefriedman).
 
 ## My Github Repositories
