@@ -7,27 +7,24 @@
 ### Research  
 <ul>
 <li> collaborated with <a href="https://github.com/nathancarter">Nathan Carter</a> (<a href="https://github.com/gfriedman77/ai-proof-grading">repo</a>)</li>
-<li>paper: "Can AI Grade Mathematical Proofs?" (<a href="https://gfriedman77.github.io/project/research/">site</a>)</li>
-<li> poster awards at NESS and AWB 2025 (<a href="https://gfriedman77.github.io/project/research/proofs_poster.pdf">poster</a>)</li>
-</ul>
+
 
 
 ### Machine Learning  
 <ul>
-  <li>project: AI Nutrition Grader (<a href="https://gfriedman77.github.io/project/cnn/">site</a>, <a href="https://github.com/gfriedman77/ai-nutrition-grader/">repo</a>)</li>      
+  <li>project: AI Nutrition Grader (<a href="https://github.com/gfriedman77/ai-nutrition-grader/">repo</a>)</li>      
   <li> group project (<a href="https://github.com/gfriedman77/ai-nutrition-grader/tree/main/pitch">pitch</a>, <a href="https://github.com/gfriedman77/ai-nutrition-grader/blob/main/pitch/Nutritrack%20Business%20Plan.pdf">plan</a>)
   <li> independent work (extension project)(<a href="https://github.com/gfriedman77/ai-nutrition-grader/blob/main/repo/testing/CNN%20Transfer%20Learning.ipynb">code</a>)
 </ul>
 
 ### Time Series  
 <ul>
-<li>project: Canada’s Labor Market (<a href="https://gfriedman77.github.io/project/time-series//">site</a>, <a href="https://github.com/gfriedman77/ts-canadian-labor-market">repo</a>)</li>   
+<li>project: Canada’s Labor Market (<a href="https://github.com/gfriedman77/ts-canadian-labor-market">repo</a>)</li>   
 <li> group project (<a href="https://github.com/gfriedman77/ts-canadian-labor-market/blob/main/Final%20Presentation.pdf">slides</a>, <a href="https://github.com/gfriedman77/ts-canadian-labor-market/blob/main/Final%20Paper.pdf">paper</a>)
 <li> independent work (contribution)(<a href="https://github.com/gfriedman77/ts-canadian-labor-market/tree/main/R%20Markdown">code</a>)
 </ul>
 
 ## Tech Skills:    
-For greater detail about technical skillset, see: [full skills](https://gfriedman77.github.io/skills/).  
 
 **Overview:**  
 
